@@ -1,11 +1,12 @@
 <h1 align="center">Hola 👋, Soy <a href="https://mmontoyadev.netlify.app" target="blank">
 Mauricio Montoya Abdía</a></h1>
-<h3 align="start">Ingeniero de Sistemas y Desarrollador web. De Cartago, Colombia. Especializado en la creación de aplicaciones web dinámicas, enfocado en ofrecer soluciones innovadoras y eficientes.</h3>
 
+<h3 align="start">Ingeniero de Sistemas y Desarrollador web. De Cartago, Colombia. Especializado en la creación de aplicaciones web dinámicas, enfocado en ofrecer soluciones innovadoras y eficientes.</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+
 
 - 🔭 Actualmente estoy trabajando en <a href="https://colraices.com/" target="blank">Colraices</a>
 
