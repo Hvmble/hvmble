@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy <a href="https://mmontoyadev.netlify.app" target="blank">
 Mauricio Montoya Abdía</a></h1>
-<h3 align="center">Ingeniero de Sistemas y Desarrollador web. De Cartago, Colombia. Especializado en la creación de aplicaciones web dinámicas, enfocado en ofrecer soluciones innovadoras y eficientes.</h3>
+<h3 align="start">Ingeniero de Sistemas y Desarrollador web. De Cartago, Colombia. Especializado en la creación de aplicaciones web dinámicas, enfocado en ofrecer soluciones innovadoras y eficientes.</h3>
 
 
 <a target="_blank" align="center">
@@ -15,11 +15,11 @@ Mauricio Montoya Abdía</a></h1>
 
 - 📚 Actualmente estoy aprendiendo **Angularjs y Nodejs** 
 
-- 💬 Pregúntame sobre **Reactjs & Nextjs & Nodejs**
+- 💬 Pregúntame sobre **Reactjs, Nextjs o Nodejs**
 
 - 📫 Cómo contactarme **mmontoyaabadia@gmail.com**
 
-- 📄 Conoce sobre mis experiencias <a href="https://drive.google.com/file/d/1GlbWtq-WfWwxom12aQjryMxWZIApYTVe/view?usp=sharing" target="blank">Hoja de vida</a>
+- 📄 Conoce sobre mis experiencias <a href="https://drive.google.com/file/d/1GlbWtq-WfWwxom12aQjryMxWZIApYTVe/view?usp=sharing" target="blank">CV</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
 
@@ -35,7 +35,7 @@ Mauricio Montoya Abdía</a></h1>
 	  <a style="margin-left: 10px;" target="_blank" href="https://mmontoyadev.netlify.app/">
 					<img src="https://mmontoyadev.netlify.app/favicon.ico" height="40" width="40"></a>
 	 <a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1GlbWtq-WfWwxom12aQjryMxWZIApYTVe/view?usp=sharing/">
-					<img src="https://mmontoyadev.netlify.app/resume.webp" height="40" width="50"></a>
+					<img src="https://mmontoyadev.netlify.app/resume.webp" height="40" width="45"></a>
       </div>
 
 </p>
