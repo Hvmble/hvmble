@@ -9,13 +9,13 @@ Mauricio Montoya Abdía</a></h1>
 
 - 🔭 Actualmente estoy trabajando en <a href="https://colraices.com/" target="blank">Colraices</a>
 
-- 🌱 Actualmente estoy desarrollando una aplicación calcula la cuota máxima de crédito y permite a los usuarios simular diferentes propuestas bancarias.
+- 🌱 Actualmente estoy desarrollando una aplicación que calcula la cuota máxima de crédito y permite a los usuarios simular diferentes propuestas bancarias.
 
 - 🤝 Estoy disponible para trabajar como freelance.
 
 - 📚 Actualmente estoy aprendiendo **Angularjs y Nodejs** 
 
-- 💬 Pregúntame sobre **Reactjs & Nextjs & Node**
+- 💬 Pregúntame sobre **Reactjs & Nextjs & Nodejs**
 
 - 📫 Cómo contactarme **mmontoyaabadia@gmail.com**
 
@@ -30,12 +30,12 @@ Mauricio Montoya Abdía</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/hvmble">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://mmontoyadev.netlify.app/">
-					<img src="https://mmontoyadev.netlify.app/favicon.ico" height="40" width="40"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mamoabadia/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1GlbWtq-WfWwxom12aQjryMxWZIApYTVe/view?usp=sharing/">
-					<img src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" height="40" width="40"></a>
+					<img src="https://mmontoyadev.netlify.app/resume.webp" height="40" width="40"></a>
+	  <a style="margin-left: 10px;" target="_blank" href="https://mmontoyadev.netlify.app/">
+					<img src="https://mmontoyadev.netlify.app/favicon.ico" height="40" width="40"></a>
       </div>
 
 </p>
