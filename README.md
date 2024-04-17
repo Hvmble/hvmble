@@ -21,6 +21,16 @@ Mauricio Montoya Abdía</a></h1>
 
 - 📄 Conoce sobre mis experiencias <a href="https://drive.google.com/file/d/1GlbWtq-WfWwxom12aQjryMxWZIApYTVe/view?usp=sharing" target="blank">CV</a>
 <br/>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Tecnologías Que Conozco👨🏻‍💻</h3></summary>
+  </ul>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,nextjs,redux,tailwind,materialui,java,nodejs,express,py,mongodb,mysql,postgres,nginx,linux,figma,github,postman,vscode" />
+  </a>
+</p>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
 
 <p align="center">
@@ -35,7 +45,7 @@ Mauricio Montoya Abdía</a></h1>
 	  <a style="margin-left: 10px;" target="_blank" href="https://mmontoyadev.netlify.app/">
 					<img src="https://mmontoyadev.netlify.app/favicon.ico" height="40" width="40"></a>
 	 <a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1GlbWtq-WfWwxom12aQjryMxWZIApYTVe/view?usp=sharing/">
-					<img src="https://mmontoyadev.netlify.app/resume.webp" height="40" width="45"></a>
+					<img src="https://mmontoyadev.netlify.app/resume.webp" height="40" width="47"></a>
       </div>
 
 </p>
