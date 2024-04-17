@@ -33,7 +33,7 @@ Mauricio Montoya Abdía</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/mamoabadia/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 	<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1GlbWtq-WfWwxom12aQjryMxWZIApYTVe/view?usp=sharing/">
-					<img src="https://mmontoyadev.netlify.app/resume.webp" height="40" width="40"></a>
+					<img src="https://mmontoyadev.netlify.app/resume.webp" height="60" width="60"></a>
 	  <a style="margin-left: 10px;" target="_blank" href="https://mmontoyadev.netlify.app/">
 					<img src="https://mmontoyadev.netlify.app/favicon.ico" height="40" width="40"></a>
       </div>
