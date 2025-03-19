@@ -8,7 +8,6 @@ Mauricio Montoya Abdía</a></h1>
 </a>
 
 
-- 🔭 Actualmente estoy trabajando en <a href="https://colraices.com/" target="blank">Colraices</a>
 
 - 🌱 Actualmente estoy desarrollando una aplicación que calcula la cuota máxima de crédito y permite a los usuarios simular diferentes propuestas bancarias.
 
@@ -20,7 +19,7 @@ Mauricio Montoya Abdía</a></h1>
 
 - 📫 Cómo contactarme **mmontoyaabadia@gmail.com**
 
-- 📄 Conoce sobre mis experiencias <a href="https://drive.google.com/file/d/1GlbWtq-WfWwxom12aQjryMxWZIApYTVe/view?usp=sharing" target="blank">CV</a>
+- 📄 Conoce sobre mis experiencias <a href="https://drive.google.com/file/d/16IhX6iZNsGaBAh1pkeRdLbjDl47tY7dr/view?usp=drive_link" target="blank">CV</a>
 <br/>
 <div id="user-content-toc">
   <ul align="center">
@@ -29,7 +28,7 @@ Mauricio Montoya Abdía</a></h1>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,nextjs,redux,tailwind,materialui,java,nodejs,express,py,mongodb,mysql,postgres,nginx,linux,figma,github,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,nextjs,redux,tailwind,materialui,java,laravel,nodejs,express,py,mongodb,mysql,postgres,nginx,linux,figma,github,postman,vscode" />
   </a>
 </p>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conéctate conmigo 🤝 </h3>
