@@ -15,7 +15,7 @@ Mauricio Montoya Abdía</a></h1>
 
 - 📚 Actualmente estoy aprendiendo **Angularjs y Nodejs** 
 
-- 💬 Pregúntame sobre **Reactjs, Nextjs, Nodejs Laravel**
+- 💬 Pregúntame sobre **Reactjs, Nextjs, Nodejs o Laravel**
 
 - 📫 Cómo contactarme **mmontoyaabadia@gmail.com**
 
